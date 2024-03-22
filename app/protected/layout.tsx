@@ -16,7 +16,7 @@ const inter = Inter({
   subsets: ["latin"],
 });
 
-const title = "Tickets - Dashboard";
+const title = "Dashboard";
 const description =
   "This is the admin dashboard";
 
